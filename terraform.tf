@@ -1,12 +1,15 @@
 terraform {
 
+/*
   cloud {
-    organization = "organization-name"
+    organization = "crestinfosolution"
 
     workspaces {
       name = "learn-terraform-cloud"
     }
   }
+
+*/
 
   required_providers {
     aws = {
